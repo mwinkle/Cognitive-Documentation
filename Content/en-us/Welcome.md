@@ -20,6 +20,31 @@ Once you are signed in with Microsoft Account you will be able to access [My sub
 ## Upgrade to unlock limits
 All the APIs will have a free trial plan.  As paid offerings become available for each API you will be directed to the Azure portal to complete the purchase.  You can find *Buy* links in your Subscriptions page if you are already using them or you can skip trial altogether and purchase with provided links on [Pricing](https://www.microsoft.com/cognitive-services/en-us/pricing "pricing").  You will need to set up a Azure subscriber account with a credit card and a phone number.  For the first time subscriber you get a $200 discount (subject to change without notice).  If you have a special requirement or simply want to talk to sales, please click "Contact us" button at the top the pricing page.
 
+## Regional availability
+The APIs in Cognitive Services are hosted on a growing network of Microsoft-managed data centers. You can find the regional availability for each API in the chart below. Regions are defined by the [Azure region list](https://azure.microsoft.com/en-us/regions).
+
+|                                          | Global | West US |
+|:-----------------------------------------|:------:|:-------:|
+| Academic Knowledge API                   |        |    :white_check_mark:    |
+| Bing Autosuggest API                     |        |    :white_check_mark:    |
+| Bing Search APIs (Image/News/Video/Web)  |    :white_check_mark:  |         |
+| Bing Speech API                          |    :white_check_mark:  |         |
+| Bing Spell Check API                     |        |    :white_check_mark:    |
+| Computer Vision API                      |        |    :white_check_mark:    |
+| Emotion API                              |        |    :white_check_mark:    |
+| Entity Linking API                       |        |    :white_check_mark:    |
+| Face API                                 |        |    :white_check_mark:    |
+| Knowledge Exploration Service            |   n/a  |   n/a   |
+| Linguistic Analysis API                  |        |    :white_check_mark:    |
+| LUIS                                     |        |    :white_check_mark:    |
+| Recommendations API                      |        |    :white_check_mark:    |
+| Speaker Recognition API                  |        |    :white_check_mark:    |
+| Text Analytics API                       |        |    :white_check_mark:    |
+| Video API                                |        |    :white_check_mark:    |
+| Web Language Model API                   |        |    :white_check_mark:    |
+	
+Looking for a region we don't support yet? Let us know by filing a feature request on our [UserVoice forum](https://cognitive.uservoice.com/).
+
 ## Support
 We're here for you throughout your development process. Reach out to us at any time using the links below. 
 * For support and technical questions, post on [Stack Overflow](https://stackoverflow.com/questions/tagged/microsoft-cognitive)
