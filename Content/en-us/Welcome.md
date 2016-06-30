@@ -23,7 +23,7 @@ All the APIs will have a free trial plan.  As paid offerings become available fo
 ## Regional availability
 The APIs in Cognitive Services are hosted on a growing network of Microsoft-managed data centers. You can find the regional availability for each API in the chart below. Regions are defined by the [Azure region list](https://azure.microsoft.com/en-us/regions).
 
-|                                          | Global | West US |
+| Product                                  | Global | West US |
 |:-----------------------------------------|:------:|:-------:|
 | Academic Knowledge API                   |        |    :white_check_mark:    |
 | Bing Autosuggest API                     |        |    :white_check_mark:    |
