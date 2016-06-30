@@ -25,23 +25,23 @@ The APIs in Cognitive Services are hosted on a growing network of Microsoft-mana
 
 | Product                                  | Global | West US |
 |:-----------------------------------------|:------:|:-------:|
-| Academic Knowledge API                   |        |    :white_check_mark:    |
-| Bing Autosuggest API                     |    :white_check_mark:  |        |
-| Bing Search APIs (Image/News/Video/Web)  |    :white_check_mark:  |         |
-| Bing Speech API                          |    :white_check_mark:  |         |
-| Bing Spell Check API                     |    :white_check_mark:  |        |
-| Computer Vision API                      |        |    :white_check_mark:    |
-| Emotion API                              |        |    :white_check_mark:    |
-| Entity Linking API                       |        |    :white_check_mark:    |
-| Face API                                 |        |    :white_check_mark:    |
+| Academic Knowledge API                   |        |    :ballot_box_with_check:    |
+| Bing Autosuggest API                     |    :ballot_box_with_check:  |        |
+| Bing Search APIs (Image/News/Video/Web)  |    :ballot_box_with_check:  |         |
+| Bing Speech API                          |    :ballot_box_with_check:  |         |
+| Bing Spell Check API                     |    :ballot_box_with_check:  |        |
+| Computer Vision API                      |        |    :ballot_box_with_check:    |
+| Emotion API                              |        |    :ballot_box_with_check:    |
+| Entity Linking API                       |        |    :ballot_box_with_check:    |
+| Face API                                 |        |    :ballot_box_with_check:    |
 | Knowledge Exploration Service            |   n/a  |   n/a   |
-| Linguistic Analysis API                  |        |    :white_check_mark:    |
-| LUIS                                     |        |    :white_check_mark:    |
-| Recommendations API                      |        |    :white_check_mark:    |
-| Speaker Recognition API                  |        |    :white_check_mark:    |
-| Text Analytics API                       |        |    :white_check_mark:    |
-| Video API                                |        |    :white_check_mark:    |
-| Web Language Model API                   |        |    :white_check_mark:    |
+| Linguistic Analysis API                  |        |    :ballot_box_with_check:    |
+| LUIS                                     |        |    :ballot_box_with_check:    |
+| Recommendations API                      |        |    :ballot_box_with_check:    |
+| Speaker Recognition API                  |        |    :ballot_box_with_check:    |
+| Text Analytics API                       |        |    :ballot_box_with_check:    |
+| Video API                                |        |    :ballot_box_with_check:    |
+| Web Language Model API                   |        |    :ballot_box_with_check:    |
 	
 Looking for a region we don't support yet? Let us know by filing a feature request on our [UserVoice forum](https://cognitive.uservoice.com/).
 
