@@ -26,10 +26,10 @@ The APIs in Cognitive Services are hosted on a growing network of Microsoft-mana
 | Product                                  | Global | West US |
 |:-----------------------------------------|:------:|:-------:|
 | Academic Knowledge API                   |        |    :white_check_mark:    |
-| Bing Autosuggest API                     |        |    :white_check_mark:    |
+| Bing Autosuggest API                     |    :white_check_mark:  |        |
 | Bing Search APIs (Image/News/Video/Web)  |    :white_check_mark:  |         |
 | Bing Speech API                          |    :white_check_mark:  |         |
-| Bing Spell Check API                     |        |    :white_check_mark:    |
+| Bing Spell Check API                     |    :white_check_mark:  |        |
 | Computer Vision API                      |        |    :white_check_mark:    |
 | Emotion API                              |        |    :white_check_mark:    |
 | Entity Linking API                       |        |    :white_check_mark:    |
